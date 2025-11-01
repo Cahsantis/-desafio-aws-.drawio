@@ -1,6 +1,4 @@
-# -desafio-aws-.drawio
-Documento prático da DIO com foco em consolidar o uso da AWS Step Functions
-## 🧠 Descrição
+# -desafio-aws-drawio
 Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de consolidar conhecimentos sobre *AWS Step Functions, **Lambda* e *integração de serviços na AWS*.  
 O foco é demonstrar a criação e documentação de workflows automatizados em nuvem.
 
